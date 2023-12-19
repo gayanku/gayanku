@@ -16,9 +16,15 @@
   <h4 align="center">PhD (AI & ML), MSc (Big data), MSc (Computer networking), BSc (Computer engineering), Chartered management accountant, Chartered engineer, Former Senior Assistant Director, Central Bank of Srilanka</h4>
 </p>
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=gayanku&color=blue&style=flat-square" alt="Gayanku profile views" />
-</p>
+<div align="center">   
+  <img align="center" src="https://komarev.com/ghpvc/?username=gayanku&color=blue&style=flat-square" alt="Gayanku profile views" />  
+<p/>
+  
+[!["Email"](https://img.shields.io/badge/M-GMail-red)](mailto:tidalbobo@gmail.com)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tidalbobo)
+[!["Book a consult"](https://img.shields.io/badge/🧑‍💻-Book_a_Consulation-green)](https://topmate.io/gayanku)
+
+</div>
 
 <hr/>
 
