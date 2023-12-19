@@ -33,7 +33,7 @@ Practicale software design 📲, solid architecture 👷‍♀️, best practice
 - 💬 Ask me about **GPT, LLM, Python, Dart, Flutter, C++**. 
 - 📫 How to reach me: [tidalbobo@gmail.com](mailto:tidalbobo@gmail.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: A huge sci-fi fan, since I read my first book at the age of 12
+- ⚡ Fun fact: A huge sci-fi fan, since I read my first book at the age of 12 
 
 ### Projects
 #### AI and Machine Learning for Graphs
@@ -67,6 +67,7 @@ Practicale software design 📲, solid architecture 👷‍♀️, best practice
 
 [!["Email"](https://img.shields.io/badge/M-GMail-red)](mailto:tidalbobo@gmail.com)
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tidalbobo)
+[!["Book a consult"](https://img.shields.io/badge/🧑‍💻-Book_a_Consulation-green)](https://topmate.io/gayanku)
 
 </div>
 
